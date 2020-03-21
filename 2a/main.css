@@ -2,6 +2,12 @@ body {
     background-color: lightsteelblue;
     margin: 16px;
     font-size: large;
+    padding: 16px;
+}
+
+.main-list {
+    width: 75%;
+    line-height: 1.5em;
 }
 
 .main-list li {
@@ -10,5 +16,4 @@ body {
 
 .main-list a {
     text-decoration: none;
-    
 }
