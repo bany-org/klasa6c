@@ -1,0 +1,14 @@
+body {
+    background-color: lightsteelblue;
+    margin: 16px;
+    font-size: large;
+}
+
+.main-list li {
+    padding: 5px;
+}
+
+.main-list a {
+    text-decoration: none;
+    
+}
